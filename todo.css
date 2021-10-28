@@ -1,0 +1,51 @@
+.start{
+    background: aquamarine;
+    padding: 30px 20px;
+    border-radius: 7px;
+}
+
+h6{
+    display: inline-block;
+}
+
+.submit{
+    margin: 6px;
+}
+.header{
+    display: block;
+    text-align: center;
+    background: cornsilk;
+    padding: 8px;
+    border-radius: 6px;
+    margin: 25px 0;
+}
+
+.input{
+    border:2px solid crimson;
+    outline: none;
+    border-radius: 5px;
+    margin: 0 8px;
+    padding: 5;
+}
+
+.body, .footer{
+    background: cornsilk;
+    padding:10px 8px;
+    border-radius:6px;
+}
+
+h4{
+    border-bottom:  1px solid rgb(78, 65, 65);
+    border-radius: 2px;
+    padding-bottom: 6px;
+}
+
+input{
+    margin: 5px;
+    border-bottom:  1px solid rgb(78, 65, 65);
+
+}
+
+.delet{
+    margin: 0 10px;
+}
